@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: 'docs/category/modulo-interno',
+                to: '/docs/category/modulo-interno',
               },
             ],
           },
